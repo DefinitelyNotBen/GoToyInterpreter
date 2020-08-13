@@ -1,0 +1,10 @@
+A = 10
+B = 3
+A
+B
+C = A * B
+C
+C = A / B
+C
+10000
+Hello
